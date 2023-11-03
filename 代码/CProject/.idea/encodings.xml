@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/chapter01/04_Printf.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/04_FloatDoubleTest.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter03/11_IfElseTest2.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/19_ATMTest.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/20_ForWhileTest.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/24_gotoTest.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter05/07_DoublePointer1.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter05/10_PointerArrayExer.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter06/04_Return.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter06/08_FunctionExer1.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter06/09_FunctionExer2.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter06/19_ArgsTransfer4.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter06/25_PointerFunctionTest.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter06/28_CallBackFunctionTest.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter07/02_StructTest1.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter07/03_StructTest2.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter07/09_StructArrayExer.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter07/10_StructArrayExer1.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter07/13_StructPointerExer.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter07/21_TypedefExer.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter08/03_TimeTest.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter08/06_MallocExer.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter09/02_OutputTest.c" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

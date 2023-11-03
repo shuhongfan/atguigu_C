@@ -1,0 +1,8 @@
+# ninja log v5
+10	154	7207282780932509	CMakeFiles/MyCProject.dir/main.c.obj	3ac44df793ef747e
+0	159	7207282780976616	CMakeFiles/MyCProject.dir/chapter01/01_Hello.c.obj	b24878d22a801a05
+112	244	7207284319222358	01_Hello.exe	95c048328c05f7e5
+0	112	7207284318002658	CMakeFiles/01_Hello.dir/chapter01/01_Hello.c.obj	71ec1c789085fb9b
+1	308	7207284609709732	build.ninja	ca7606f396339471
+0	110	7207284675887017	CMakeFiles/main.dir/main.c.obj	5cc120c4d15a17d8
+111	250	7207284677221469	main.exe	789facf5563b23db

@@ -1,0 +1,5 @@
+C:/Users/shuho/CLionProjects/atguigu_C/MyCProject/cmake-build-debug/CMakeFiles/MyCProject.dir
+C:/Users/shuho/CLionProjects/atguigu_C/MyCProject/cmake-build-debug/CMakeFiles/01_Hello.dir
+C:/Users/shuho/CLionProjects/atguigu_C/MyCProject/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/shuho/CLionProjects/atguigu_C/MyCProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shuho/CLionProjects/atguigu_C/MyCProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
